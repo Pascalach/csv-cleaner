@@ -1,0 +1,6 @@
+# Dépendances du projet. Installe-les dans ton environnement virtuel avec :
+#   pip install -r requirements.txt
+#
+# Pour l'instant, on n'a besoin que de pytest (pour lancer les tests).
+# Tu ajouteras d'autres librairies ici quand ton outil grandira.
+pytest

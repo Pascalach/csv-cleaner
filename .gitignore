@@ -1,0 +1,15 @@
+# Environnement virtuel (ne jamais commiter)
+.venv/
+venv/
+
+# Caches Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Fichiers système macOS
+.DS_Store
+
+# Config éditeur
+.vscode/
+.idea/
