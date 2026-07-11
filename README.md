@@ -45,5 +45,6 @@ en ligne de commande.)_
 
 ## Ce que j'ai appris
 
-_(Note ici, en une ou deux lignes, ce que chaque semaine t'a appris. C'est ça qui
-donne de la valeur au README aux yeux d'un recruteur.)_
+_Semaine 1 : j'ai appris à structurer un projet Python et à publier sur GitHub.
+
+
