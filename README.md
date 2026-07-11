@@ -45,6 +45,6 @@ en ligne de commande.)_
 
 ## Ce que j'ai appris
 
-_Semaine 1 : j'ai appris à structurer un projet Python et à publier sur GitHub.
+** Semaine 1** : j'ai appris à structurer un projet Python et à publier sur GitHub.
 
 
